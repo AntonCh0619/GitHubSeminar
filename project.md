@@ -108,7 +108,7 @@
 ## Заключение
 
 ###  _В этом тексте **БАЗА**_
- **Выше преведены пример начальной работы в Marckdown**
+ **Выше преведены пример начальной работы в Marckdown и команды для GIT**
 
 [Больше функций Marckdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference) 
  
