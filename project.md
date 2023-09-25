@@ -33,6 +33,11 @@
 
 > ![Alt text](<images/git log.png>)
 
+## **git log --graph**
+* показать древо проэкта
+
+>![Alt text](<images/git log --graph.png>)
+
 ## **git checkout** 
 * переход от одного коммита или ветки к другому (*другой*) 
 
