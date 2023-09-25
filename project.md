@@ -53,6 +53,19 @@
 
 >![Alt text](<images/git diff.png>)
 
+## **git branch**
+* просмотр списка веток
+
+>![Alt text](<images/git branch .png>)
+
+## **git branch -d name branch**
+* удаление ветки
+
+>![Alt text](<images/git delete branch.png>)
+
+**ветка branch2 была удалена**
+>![Alt text](<images/delet access.png>)
+
 ## **git merge name branch**
 * слияние веток
 
@@ -60,10 +73,10 @@
 
 >![Alt text](<images/git log --graph.png>)
 
->При слиянии может возникнуть конфликт из за разницы в тексте(данных)
+**При слиянии может возникнуть конфликт из за разницы в тексте(данных)**
 >![Alt text](<images/Conflict merge.png>)
 
-## **git reset --hard name commit or HEAD
+## **git reset --hard name commit or HEAD**
 * Сбросить сотояние проекта до определенного коммита или в случае с HEAD отменить последнее действие
 
 ## P.S. Команда "clear" введенная в терминале очистит терминал.
@@ -106,7 +119,8 @@
 
 ## Ссылки
 
-Для включения ссылок в текст пиши
+Для включения ссылок в текст пиши.[слово для ссылки](URL адрес)
+
 Пример:
 Переходи по ссылке https://gb.ru/ или так ["Geek brains"]( https://gb.ru/)
 
@@ -141,5 +155,7 @@
  **Выше преведены примеры начальной работы по оформленю текста в Marckdown и команды для GIT помогающие с контролем версий вашего проекта.**
 
 [Больше функций Marckdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference) 
+
+[Больше команд для Git](https://habr.com/ru/companies/ruvds/articles/599929/)
  
 <!-- Текст подготовлен для сдачи практической работы в gb
