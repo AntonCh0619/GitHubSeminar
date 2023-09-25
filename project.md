@@ -34,7 +34,7 @@
 > ![Alt text](<images/git log.png>)
 
 ## **git log --graph**
-* показать древо #########
+* показать древо проекта
 
 >![Alt text](<images/git log --graph.png>)
 
@@ -52,6 +52,17 @@
 * увидеть разницу между текущим файлом и закоммиченным файлом
 
 >![Alt text](<images/git diff.png>)
+
+## **git merge name branch"*
+* слияние веток
+
+>![Alt text](<images/git log --graph.png>)
+
+>При слиянии может возникнуть конфликт из за разницы в тексте(данных)
+>![Alt text](<images/Conflict merge.png>)
+
+## **git reset --hard name commit or HEAD
+* Сбросить сотояние проекта до определенного коммита или в случае с HEAD отменить последнее действие
 
 ## P.S. Команда "clear" введенная в терминале очистит терминал.
 
