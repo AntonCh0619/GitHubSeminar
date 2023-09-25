@@ -34,7 +34,7 @@
 > ![Alt text](<images/git log.png>)
 
 ## **git log --graph**
-* показать древо проэкта
+* показать древо #########
 
 >![Alt text](<images/git log --graph.png>)
 
